@@ -1,0 +1,13 @@
+# .gitignore
+# Frontend ignores
+groq_chatbot/node_modules/
+groq_chatbot/build/
+groq_chatbot/.env
+groq_chatbot/.DS_Store
+
+# Backend ignores
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+backend/uploads/

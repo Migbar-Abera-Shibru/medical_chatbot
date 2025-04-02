@@ -1,0 +1,10 @@
+flask==2.3.2
+flask-cors==3.0.10
+groq==0.3.0
+python-dotenv==1.0.0
+PyPDF2==3.0.1
+python-docx==0.8.11
+sentence-transformers==2.2.2
+unstructured==0.7.12
+numpy==1.24.3
+pinecone==6.0.2  # or latest version
