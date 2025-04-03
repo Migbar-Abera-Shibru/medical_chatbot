@@ -4,7 +4,7 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 from werkzeug.utils import secure_filename
 import groq
-from pinecone import Pinecone, ServerlessSpec  # Updated import
+from pinecone import Pinecone, ServerlessSpec  
 from PyPDF2 import PdfReader
 from docx import Document
 from unstructured.partition.auto import partition
